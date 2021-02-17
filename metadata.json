@@ -1,0 +1,14 @@
+{
+  "name": "extendingpuppet-apache",
+  "version": "0.1.16",
+  "author": "extendingpuppet",
+  "summary": "An apache module",
+  "license": "Apache-2.0",
+  "source": "git@github.com:extendingpuppet/apache.git",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+
+  ],
+  "data_provider": null
+}
